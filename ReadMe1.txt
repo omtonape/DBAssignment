@@ -15,5 +15,5 @@ public boolean transferAmount(String fromAccountId, String toAccountId, BigDecim
 	3. For checking health of app such as system level health informaiton, auditing information, API health information need to 
 		add acutator Plugin.
 	4. Need to configure profiles such as dev, test, prod.
-	5. Need to replace ReentrantLock with Java 8 stampedLock which has having better performance than ReentrantLock.
+	5. Need to replace ReentrantLock with Java 8 stampedLock which is having better performance than ReentrantLock.
 	
